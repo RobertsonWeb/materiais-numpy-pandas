@@ -3,8 +3,8 @@
 Disponibilizo neste repositório os materiais para os alunos da **pós-graduação em DataScience**, **disciplina Python**. **Conteúdo: Numpy e Pandas**.
 
 **Navegação nos diretórios**
-- docs: Conteúdo das aulas (teoria + prática)
-- codigos-fonte: Notebooks .ipynb com os algoritmos discutidos em aula
+- [docs](https://github.com/RobertsonWeb/materiais-numpy-pandas/tree/main/docs): Conteúdo das aulas (teoria + prática)
+- [codigos-fonte](https://github.com/RobertsonWeb/materiais-numpy-pandas/tree/main/docs): Notebooks .ipynb com os algoritmos discutidos em aula
 
 **Robertson Ebling dos Santos**
 _robertson@ersistemas.info_
